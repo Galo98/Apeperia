@@ -17,3 +17,6 @@ Utilizar las unidades de viewport;
 Identificar la diferencia entre las unidades absolutas y relativas;
 Analizar las limitaciones físicas de los dispositivos.
 
+Cómo trabajar con las imágenes del layout;
+Tags y los atributos que tienen más funciones de semántica de qué estilo;
+La importancia de escribir un código semántico.
